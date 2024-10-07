@@ -13,6 +13,7 @@ Os canvas original e duas variações possíveis, em formato A4, [podem ser enco
 
 ![Software Project Canvas](imagens/Canvas.jpg "Software Project Canvas")
 
+[Acesse o board no Miro](https://miro.com/app/board/uXjVMqAwUlU=/?share_link_id=901853596182)
 
 
 
