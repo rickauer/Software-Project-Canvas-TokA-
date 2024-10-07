@@ -11,7 +11,8 @@ Maiores explicações podem ser obtidas no [relatório que o explica](softwarepr
 Os canvas original e duas variações possíveis, em formato A4, [podem ser encontrados aqui](dist/Software%20Project%20Canvas%20v1.0.pdf).
 
 
-![Software Project Canvas](imagens/alternativa1.png "Software Project Canvas")
+![Software Project Canvas](imagens/canvas.png "Software Project Canvas")
+
 
 
 
